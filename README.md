@@ -167,7 +167,7 @@ python main.py --url "https://youtube.com/watch?v=mCRibm4kOaE" \
                --output-dir "./music"
 ```
 
-### Example 2: High-quality MP3 with thumbnail
+### Example 2: Multiple audio formats
 
 ```bash
 python main.py --url "https://youtube.com/watch?v=mCRibm4kOaE" \
@@ -176,7 +176,7 @@ python main.py --url "https://youtube.com/watch?v=mCRibm4kOaE" \
                --quality 256
 ```
 
-### Example 3: High-quality MP3 with thumbnail
+### Example 3: Video download
 
 ```bash
 python main.py --url "https://youtube.com/watch?v=mCRibm4kOaE" \
